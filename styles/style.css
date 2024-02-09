@@ -1,0 +1,17 @@
+html {
+  font-size: 30px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: FreeSans-1Zge.otf:
+}
+h1{
+  font-size: 40px;
+  color: #EF2929;
+}
+body{
+  background-color: #BABDB6;
+  margin: 0 ;
+  padding: 20px 10px 0px 500px
+}
+p {
+  width: 500px;
+  margin: 0 ;
+}
