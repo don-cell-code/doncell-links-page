@@ -18,8 +18,8 @@ p {
 ul{
   padding: 0px 10px 0px 500px
 }
-li{
-  color: #BABDB6;
+li {
+  list-style-type: none;
 }
 a{
 
