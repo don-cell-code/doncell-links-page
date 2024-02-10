@@ -5,13 +5,22 @@ html {
 h1{
   font-size: 40px;
   color: #EF2929;
+  padding: 20px 10px 0px 500px
 }
 body{
   background-color: #BABDB6;
   margin: 0 ;
-  padding: 20px 10px 0px 500px
 }
 p {
   width: 500px;
   margin: 0 ;
+  padding: 5px 10px 0px 500px
+}
+ul{
+  padding: 0px 10px 0px 500px
+}
+li{
+  color: #BABDB6
+}
+a{
 }
