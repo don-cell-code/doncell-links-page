@@ -1,29 +1,31 @@
 html {
   font-size: 30px;
-  font-family: FreeSans-1Zge.otf:
+  font-family: FreeSans-1Zge.otf;
 }
 h1{
   font-size: 40px;
   color: #EF2929;
-  madgin:auto;
-  margin-bottom: -10
+  margin:auto;
+  margin-bottom: -20;
 }
 h2{
   font-size:33px;
   margin:auto;
-  margin-bottom: -20;
+  margin-bottom: 0;
   margin-top: -20;
 }
 body{
   background-color: #BABDB6;
-  padding-left: 30;
+  padding-left: 20;
 }
 p {
   width: 500px;
-  madgin:auto;
+  margin: 0;
+  margin-top: 20;
+  margin-bottom: 20
 }
 ul{
-  madgin:auto;
+  margin:auto;
   margin-left: -40;
 }
 li {
