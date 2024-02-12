@@ -5,18 +5,26 @@ html {
 h1{
   font-size: 40px;
   color: #EF2929;
-  margin: 20px 10px 0px 500px
+  madgin:auto;
+  margin-bottom: -10
+}
+h2{
+  font-size:33px;
+  margin:auto;
+  margin-bottom: -20;
+  margin-top: -20;
 }
 body{
   background-color: #BABDB6;
-  margin: 0 ;
+  padding-left: 30;
 }
 p {
   width: 500px;
-  margin: 5px 10px 0px 500px
+  madgin:auto;
 }
 ul{
-  padding: 0px 10px 0px 500px
+  madgin:auto;
+  margin-left: -40;
 }
 li {
   list-style-type: none;
