@@ -5,32 +5,40 @@ html {
 h1{
   font-size: 40px;
   color: #EF2929;
-  margin:auto;
-  margin-bottom: -20;
+  margin-top:10;
+  margin-bottom: -10;
+  padding-left: 20;
 }
 h2{
   font-size:33px;
-  margin:auto;
   margin-bottom: 0;
-  margin-top: -20;
+  margin-top: -10;
+  padding-left: 20;
 }
 body{
   background-color: #BABDB6;
-  padding-left: 30;
+  border: 20px;
+  border-color: black;
 }
 p {
   width: 500px;
-  margin: 0;
-  margin-top: 20;
-  margin-bottom: 20;
+  font-size:28;
+  margin:0;
+  padding-left: 20;
 }
 ul{
-  margin:auto;
-  margin-left: -40;
+  margin-top: 0;
+  margin-left: 0;
+  border: medium;
+  padding-left: 20;
 }
 li {
   list-style-type: none;
 }
 a:hover{
   text-decoration: none;
+}
+hr{
+  margin: 15;
+  width: 500px;
 }
