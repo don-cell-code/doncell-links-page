@@ -1,5 +1,6 @@
 html {
   font-size: 30px;
+  background-color: #000000;
 }
 h1{
   font-size: 40px;
@@ -10,17 +11,21 @@ h1{
 }
 h2{
   font-size:33px;
+  color:#6131AD;
   margin-bottom: 0;
   margin-top: -10;
   padding-left: 1%;
 }
 body{
-  background-color: #BABDB6;
   width: 500px;
+  margin: auto;
+  margin-top: 10%;
+  scale: 125%;
 }
 p {
   width: 500px;
   font-size:28;
+  color: #2FFC83;
   margin:0;
   padding-left: 1%;
 }
@@ -40,9 +45,10 @@ a:hover{
 }
 hr{
   margin: 0.5%;
-  width: 500px;
+  width: 488px;
   padding-left: 1%;
 }
 summary{
+  color: #28FF7F;
   padding-left: 1%;
 }
