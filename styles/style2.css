@@ -2,7 +2,7 @@ html {
   font-size: 30px;
   background-color: #000000;
 }
-h1{
+h1.main{
   font-size: 40px;
   color: #EF2929;
   width:300px;
@@ -16,20 +16,21 @@ a:hover{
 }
 h1.Short_Story{
   font-size:30px;
+  width: 180px;
   color:#D06B32;
-  margin:0px 0px 0px 246px;
+  margin:0px 0px 0px 12.9%;
 }
 img.Short_Story{
-  margin:0px 0px 0px 180px;
+  margin:0px 0px 0px 9.5%;
 }
 details.Short_Story{
-  margin:0px 0px 0px 180px;
+  margin:0px 0px 0px 9.5%;
   font-size:20px;
   width:300px;
   color:#28FF7F;
 }
 a.Short_Story{
-  margin:0px 0px 0px 180px;
+  margin:0px 0px 0px 9.5%;
   font-size: 25px
 }
 p.Short_Story{
