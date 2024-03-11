@@ -2,39 +2,43 @@ html {
   font-size: 30px;
   background-color: #000000;
 }
-h1{
+body.f{
+  margin-top: 10%;
+  scale:120%;
+}
+h1.f{
   font-size: 40px;
   color: #EF2929;
   margin-top:1%;
   margin-bottom: 1%;
   padding-left: 1%;
 }
-h2{
+h2.f{
   font-size:33px;
   color:#6131AD;
   margin-bottom: 0;
   margin-top: -10;
   padding-left: 1%;
 }
-body{
-  width: 500px;
-  margin: auto;
-  margin-top: 10%;
-  scale: 120%;
+div.f{
+  margin:0 0 0 37%;
 }
-p {
+header{
+  margin:3% 0 0 37%;
+}
+p.f{
   width: 500px;
   font-size:28;
   color: #2FFC83;
   margin:0;
   padding-left: 1%;
 }
-ul{
+ul.f{
   margin-top: 0;
   margin-left: 0;
   padding-left: 1%;
 }
-li {
+li.f{
   list-style-type: none;
 }
 a{
@@ -48,7 +52,49 @@ hr{
   width: 488px;
   padding-left: 1%;
 }
-summary{
+summary.f{
   color: #28FF7F;
   padding-left: 1%;
+}
+h1.main{
+  font-size: 40px;
+  color: #EF2929;
+  width:300px;
+  margin:auto;
+}
+a.main{
+  font-size:20px;
+  width:300px;
+  margin:0px 0px 0px 47%;
+}
+a:hover{
+  text-decoration: none;
+}
+div.Short_Story{
+  margin:0px 0px 0px 9.5%;
+  width: 400px;
+  border: solid grey;
+}
+img.Short_Story{
+  margin-left: 12%;
+}
+h1.Short_Story{
+  font-size:30px;
+  width: 400px;
+  color:#D06B32;
+  text-align:center;
+}
+details.Short_Story{
+  font-size:20px;
+  width:300px;
+  color:#28FF7F;
+  margin-left: 12%;
+}
+a.Short_Story{
+  font-size: 25px;
+  margin-left: 12%;
+}
+p.Short_Story{
+  margin:0;
+  width: 300px
 }
