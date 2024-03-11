@@ -8,29 +8,33 @@ h1.main{
   width:300px;
   margin:auto;
 }
+a.main{
+  font-size:20px;
+  width:300px;
+  margin:0px 0px 0px 47%;
+}
 a{
   color: #6131AD;
 }
 a:hover{
   text-decoration: none;
 }
+div.Short_Story{
+  margin:0px 0px 0px 9.5%;
+  width: 300px;
+}
 h1.Short_Story{
   font-size:30px;
-  width: 180px;
+  width: 300px;
   color:#D06B32;
-  margin:0px 0px 0px 12.9%;
-}
-img.Short_Story{
-  margin:0px 0px 0px 9.5%;
+  text-align:center;
 }
 details.Short_Story{
-  margin:0px 0px 0px 9.5%;
   font-size:20px;
   width:300px;
   color:#28FF7F;
 }
 a.Short_Story{
-  margin:0px 0px 0px 9.5%;
   font-size: 25px
 }
 p.Short_Story{
