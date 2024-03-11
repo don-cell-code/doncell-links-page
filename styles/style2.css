@@ -21,21 +21,27 @@ a:hover{
 }
 div.Short_Story{
   margin:0px 0px 0px 9.5%;
-  width: 300px;
+  width: 400px;
+  border: solid grey;
+}
+img.Short_Story{
+  margin-left: 12%;
 }
 h1.Short_Story{
   font-size:30px;
-  width: 300px;
+  width: 400px;
   color:#D06B32;
   text-align:center;
 }
 details.Short_Story{
   font-size:20px;
-  width:300px;
+  width:400px;
   color:#28FF7F;
+  margin-left: 12%;
 }
 a.Short_Story{
-  font-size: 25px
+  font-size: 25px;
+  margin-left: 12%;
 }
 p.Short_Story{
   margin:0;
